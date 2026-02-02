@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        {% if site.logo %}
+          <img src="{{site.logo | https://lorenzofattori.github.io/NitroHat/}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        {% endif %}
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+
+        <p class="view"><a href="https://lorenzofattori.github.io/NitroHat">Homepage<small></small></a></p>
+
+        <p class="view"><a href="https://lorenzofattori.github.io/NitroHat/TheNitroHat">The Nitro Hat <small>What is it?</small></a></p>
+
+        <p class="view"><a href="https://github.com/lorenzofattori/NitroHat/FAQ">FAQ <small>All your questions answered</small></a></p>     
+
+        <p class="view"><a href="https://github.com/lorenzofattori/NitroHat/NitroBlog">NitroBlog <small>Updates on the project</small></a></p>       
+
+        <p class="view"><a href="https://lectronz.com/campaigns/pre-order-nitro-hat-first-batch">Pre Order now <small>Pledge your support to the project</small></a></p>
+
+      <p class="view"><a href="https://github.com/lorenzofattori/NitroHat/Contact">Contact Me <small></small></a></p>
+        
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        {% endif %}
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
