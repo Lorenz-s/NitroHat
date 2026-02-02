@@ -23,6 +23,7 @@ Currently no, you can only order the hi-hat controller, you will have to order t
 ### Can I use the Nitro Hat with any standard hi-hat pedal? 
 Yes! The Nitro Hat is designed to fit standard hi-hat pedals, so you can use it with the pedal you already own. 
 The only thing you need to make sure is that the Hi-hat clutch bolt is M10 or M12. See picture for reference.
+![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/clutch-bolt.jpg)
 
 Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenzofattori.github.io/NitroHat/TheNitroHat)
 
