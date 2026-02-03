@@ -17,6 +17,9 @@ It's actually very simple, the original pedal is changing resistance valies base
 I just designed the hardware to change resistance based on the movement of a real hi-hat stand!
 While it took a lot of time to fine tune it, the end result is a simple but effective hi-hat controller that gets mounted directly on a standard hi-hat stand.
 
+## See it in action
+I made a [small youtube video](https://youtube.com/shorts/4Iyc04RRA2g) showing how it works
+
 ---
 
 ## **Key Features**
