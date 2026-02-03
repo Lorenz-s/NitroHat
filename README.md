@@ -39,4 +39,7 @@ That’s why I launched this pre-order campaign. I want to see if there are at l
 [Pre-Order Now](https://lectronz.com/campaigns/pre-order-nitro-hat-first-batch) and be one of the first to experience the difference.
 
 
+**Questions?**
+Contact me!
+
 
