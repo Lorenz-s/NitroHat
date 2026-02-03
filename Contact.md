@@ -1,7 +1,7 @@
 # Contact
 
 ## Online Community:
-An Element space (similar to a discord server, but better) is not live for the Nitro Hat, [Click here to join](https://matrix.to/#/#nitrohat:matrix.org)
+An Element/matrix space (similar to a discord server, but better) is not live for the Nitro Hat, [Click here to join](https://matrix.to/#/#nitrohat:matrix.org)
 This is the fastest and preferred way to get in touch!
 
 ## Send me a message:
