@@ -3,7 +3,7 @@ Your questions answered
 
 ## Product Basics
 
-### What is the Nitro Hat? T
+### What is the Nitro Hat?
 The Nitro Hat is a custom made hi-hat controller designed specifically for the Alesis e-drum kits. It replaces the stock hi-hat pedal, offering realistic playability, full expression (Closed, Half-Open, Open, and Chick sounds), and a natural feel—just like an acoustic hi-hat. Is the Nitro Hat compatible with my Alesis Nitro/Nitro Max? Yes! The Nitro Hat is designed to work with the Alesis Nitro and Nitro Max e-drum kits.
 
 ### Is the Nitro Hat compatible with other Alesis models? 
