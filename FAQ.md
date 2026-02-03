@@ -7,7 +7,7 @@ Your questions answered
 The Nitro Hat is a custom made hi-hat controller designed specifically for the Alesis e-drum kits. It replaces the stock hi-hat pedal, offering realistic playability, full expression (Closed, Half-Open, Open, and Chick sounds), and a natural feel—just like an acoustic hi-hat. Is the Nitro Hat compatible with my Alesis Nitro/Nitro Max? Yes! The Nitro Hat is designed to work with the Alesis Nitro and Nitro Max e-drum kits.
 
 ### Is the Nitro Hat compatible with other Alesis models? 
-Maybe. Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenzofattori.github.io/NitroHat/TheNitroHat)
+Maybe. Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
 Do you have other kits and you want to try it? contact me!
 
 ### What makes the Nitro Hat better than the stock hi-hat pedal? 
@@ -25,7 +25,7 @@ Yes! The Nitro Hat is designed to fit standard hi-hat pedals, so you can use it 
 The only thing you need to make sure is that the Hi-hat clutch bolt is M10 or M12. See picture for reference.
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/clutch-bolt.jpg)
 
-Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenzofattori.github.io/NitroHat/TheNitroHat)
+Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
 
 During the order, you will have to specify the bolt size and I will ship the right one to you.
 If your hi-hat clutch bolt is not M10 or M12, please get in touch with me!
