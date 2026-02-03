@@ -1,10 +1,10 @@
 ## NitroHat: The Hi-Hat Controller Your Alesis Drmkit Deserves
 
-![DrumKit-NitroHat](https://github.com/lorenzofattori/NitroHat/raw/main/images/IMG_20251213_112846.jpg)
+![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20251213_112846.jpg)
 
 ### Frustrated with the clunky, unresponsive stock hi-hat? Meet the Nitro Hat: realistic feel, full expression, and plug-and-play simplicity for your Alesis e-drum kit."
 
-![NitroHat-Hardware](https://github.com/lorenzofattori/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
+![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
 
 #### Key Features:
 - Standard Hi-Hat Pedal Compatible
@@ -40,6 +40,6 @@ That’s why I launched this pre-order campaign. I want to see if there are at l
 
 
 **Questions?**
-Contact me!
+[Contact me!](https://lorenz-s.github.io/NitroHat/Contact)
 
 
