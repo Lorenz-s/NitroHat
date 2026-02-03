@@ -1,12 +1,12 @@
 ## **What is it?**
-![NitroHat-Hardware](https://github.com/lorenzofattori/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
+![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
 
 The Nitro Hat is a **hi-hat controller** specifically designed for the Alesis Nitro and Nitro Max electronic drumkits.
 It is intented to replace the DMhat Open/Close pedal provided with the drumkit:
 
-![AlesisDMhat1](https://github.com/lorenzofattori/NitroHat/raw/main/images/dmhat-1.jpg)
+![AlesisDMhat1](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-1.jpg)
 
-![AlesisDMhat1](https://github.com/lorenzofattori/NitroHat/raw/main/images/dmhat-2.jpg)
+![AlesisDMhat1](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-2.jpg)
 
 **Why?**
 Because the original pedal is in no way shape of form the same of a original hi-hat, and it require very difficult movements or high forces to get the right sound out of the hi-hat.
