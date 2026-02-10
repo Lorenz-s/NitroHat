@@ -2,6 +2,16 @@
 ### Updates on the Nitro Hat project
 
 
+### 03-02-2026 - Testing Hi-Hats
+![hihats](https://i.redd.it/q5nnc50kibhg1.jpeg)
+
+While the preorder campaign is progressing well, I'm looking at a new hi-hat stand for the Nitro. That's why I decided to order two very nice stands from Thomann and test them with the hat!
+I discovered a lot, and I updated the [Nitro Hat page](https://lorenz-s.github.io/NitroHat/TheNitroHat) with useful info.
+Do you own a hi-hat stand already? Are you willing to help by providing the dimensions? Contact me!
+
+
+---
+
 ### 03-02-2026 - New Element/Matrix.org Space for the Nitro Hat
 A lot of questions are coming via email and via reddit chat, I dediced it's time to have a proper community around the project.
 Discord is great for this, but Element is better since it's opensource, secure and encrypted.
