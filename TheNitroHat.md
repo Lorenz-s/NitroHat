@@ -60,7 +60,7 @@ I made a <a href="https://youtube.com/shorts/4Iyc04RRA2g" target="_blank">youtub
 
 You learn so many things when you buld new stuff! For example one could imagine that all hi-hats use standard mounting dimesions for mounting the cymbals.
 
-**wrong.** there is nothing really standard in our world.
+**Wrong.** there is nothing really standard in our world.
 
 I designed the original version of the Nitro Hat to work with a Pulse hi-hat pedal I purchased used locally. But in the meantime I sourced another couple of hi-hats to test whith.
 This is when I found that mounting bolts on the clutches can be different in size.
@@ -69,8 +69,12 @@ I now have a M10 and M12 version, these two versions seem to cover a vast majori
 
 The goal of the preorder campain is to collect enough money to purchase different stands and test. Do you want me to test with a specific hi-hat? Contact me!
 
-|Model |Compatible? | Tested? | Notes |
-|----------|----------|----------|----------|
-| Millennium DHS-1018 Stage Hi-Hat | ✅ - M12 | ✅ |Recommended - cheap but sturdy|
-| Millennium HH-901 Pro Series | ✅ - M12| ✅ |Recommended - high quality for a good price|
-| Pulse hihi--hat| ✅ - M10 | ✅ | The hat stand has no model written on it, see photos |
+|Model                             |Compatible?  |Tested?  |Clutch Bolt  |Rod Size  |Bottom Hole Diameter  |Photo  |Notes             | 
+|----------                        |----------   |---------|----------   |----------|----------            |----   |----------        |
+| Millennium DHS-1018 Stage Hi-Hat | ✅          |✅       |M12          |7mm       |11.1mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
+| Millennium HH-901 Pro Series     | ✅          |✅       |M12          |7mm       |11.1mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium HH-901 Pro Series.jpg"/> |Recommended - high quality for a good price   |
+| Pulse hi--hat                    | ✅          |✅       |M10          |5mm       |10mm                  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/> ||
+| Pearl H-830                      | ✅          |❌       |M12          |5.5mm     |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pearl H-830.jpg"/> ||
+| Gibraltar GI-9707ML-DP           | ✅          |❌       |M12          |7mm       |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI-9707ML-DP.jpg"/> ||
+| Ludvig hi-hat                    | ✅          |❌       |M12          |?         |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Ludvig hi-hat.jpg"/> |A tester has this pedal, unfortunately no model |
+
