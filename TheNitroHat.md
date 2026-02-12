@@ -77,4 +77,8 @@ The goal of the preorder campain is to collect enough money to purchase differen
 | Pearl H-830                      | ✅          |❌       |M12          |5.5mm     |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pearl H-830.jpg"/> ||
 | Gibraltar GI-9707ML-DP           | ✅          |❌       |M12          |7mm       |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI-9707ML-DP.jpg"/> ||
 | Ludvig hi-hat                    | ✅          |❌       |M12          |?         |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Ludvig hi-hat.jpg"/> |A tester has this pedal, unfortunately no model |
+| Yamaha Crosstown HHS3            | ✅          |✅       |M10          |?         |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/yamaha crosstown HHS3.jpeg"/> |A tester has this pedal |
+
+
+
 
