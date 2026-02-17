@@ -27,7 +27,6 @@ The only thing you need to make sure is that the Hi-hat clutch bolt is M10 or M1
 
 Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
 
-During the order, you will have to specify the bolt size and I will ship the right one to you.
 If your hi-hat clutch bolt is not M10 or M12, please get in touch with me!
 
 ### How do I install the Nitro Hat? 
