@@ -1,5 +1,6 @@
 ## NitroHat: The Hi-Hat Controller Your Alesis Drmkit Deserves
 
+![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/NitroHat-MillenniumPro.jpg)
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20251213_112846.jpg)
 
 ### Frustrated with the clunky, unresponsive stock hi-hat? Meet the Nitro Hat: realistic feel, full expression, and plug-and-play simplicity for your Alesis e-drum kit."
