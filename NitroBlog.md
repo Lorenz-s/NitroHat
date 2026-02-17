@@ -2,7 +2,16 @@
 ### Updates on the Nitro Hat project
 
 
-### 03-02-2026 - Testing Hi-Hats
+
+### 17-02-2026 - only 2 pledgers needed!
+With 20 days left, we are at 8 pledgers out of the minumum 10! So happy to see people interested.
+In the meantime I recorded myself testing the Nitro Hat and playing a bit: <a href="https://youtu.be/Ip2vcaMDBV4" target="_blank">Watch it here</a>
+
+Disclamer, I'm a very begineer, no judgment please :)
+
+---
+
+### 05-02-2026 - Testing Hi-Hats
 ![hihats](https://i.redd.it/q5nnc50kibhg1.jpeg)
 
 While the preorder campaign is progressing well, I'm looking at a new hi-hat stand for the Nitro. That's why I decided to order two very nice stands from Thomann and test them with the hat!
