@@ -1,7 +1,12 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+### 19-02-2026 - we made it!
+I'm happy to share that the minimum amount of pledgers for the Nitro Hat has been reached!
+The Nitro Hat will happen, there are still 18 days for pre-orderig but I will not lose any time and start preparing for the finalization and production of the first batch!
+Thank you everyone who is backing me in this project! Keep an eye here for updates!
 
+---
 
 ### 17-02-2026 - only 2 pledgers needed!
 With 20 days left, we are at 8 pledgers out of the minumum 10! So happy to see people interested.
