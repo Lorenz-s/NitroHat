@@ -10,6 +10,9 @@ The Nitro Hat is a custom made hi-hat controller designed specifically for the A
 Maybe. Over time I will build a list based on feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
 Do you have other kits and you want to try it? contact me!
 
+### Does the Nitro Hat use MIDI notes?
+No, the nitro hat is just replicating the behavior of the pedal from Alesis, the signal arrives to the Nitro module and the module generates sounds and MIDI notes, no changes there.
+
 ### What makes the Nitro Hat better than the stock hi-hat pedal? 
 The Nitro Hat will allow you to use a real hi-hat pedal with the Nitro/Nitro Max module. 
 The original pedal is very to difficult to play, you either have to press very hard to get a closed sound or it is impossibe to have a half-open sound. 
