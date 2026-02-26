@@ -1,6 +1,15 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+
+### 26-02-2026 - Nitro Hat works with the Alesis Nitro Pro model
+Thanks to Agnese for sending out a Nitro Pro pedal for test.
+I can confirm that inside the pedals are identicals, only the exterior is different so **the Nitro Hat works with the Alesis Nitro Pro**.
+![AlesisDMhatPro](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro.jpg)
+![AlesisDMhatPro2](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro2.jpg)
+
+---
+
 ### 19-02-2026 - we made it!
 I'm happy to share that the minimum amount of pledgers for the Nitro Hat has been reached!
 The Nitro Hat will happen, there are still 18 days for pre-orderig but I will not lose any time and start preparing for the finalization and production of the first batch!
@@ -22,7 +31,6 @@ Disclamer, I'm a very begineer, no judgment please :)
 While the preorder campaign is progressing well, I'm looking at a new hi-hat stand for the Nitro. That's why I decided to order two very nice stands from Thomann and test them with the hat!
 I discovered a lot, and I updated the [Nitro Hat page](https://lorenz-s.github.io/NitroHat/TheNitroHat) with useful info.
 Do you own a hi-hat stand already? Are you willing to help by providing the dimensions? Contact me!
-
 
 ---
 
