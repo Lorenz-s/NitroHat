@@ -1,12 +1,19 @@
 ## **What is it?**
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
 
-The Nitro Hat is a **hi-hat controller** specifically designed for the Alesis Nitro and Nitro Max electronic drumkits.
+The Nitro Hat is a **hi-hat controller** specifically designed for the Alesis Nitro, Nitro Max and Nitro Pro electronic drumkits.
 It is intented to replace the DMhat Open/Close pedal provided with the drumkit:
 
-![AlesisDMhat1](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-1.jpg)
+![AlesisDMhat](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-1.jpg)
 
-![AlesisDMhat1](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-2.jpg)
+![AlesisDMhat2](https://github.com/Lorenz-s/NitroHat/raw/main/images/dmhat-2.jpg)
+
+On the Nitro Pro, the pedal looks differently, but inside it's exactly the same, only a jack adaptor is needed:
+
+![AlesisDMhatPro](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro.jpg)
+
+![AlesisDMhatPro2](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro2.jpg)
+
 
 **Why?**
 Because the original pedal is in no way shape of form the same of a original hi-hat, and it require very difficult movements or high forces to get the right sound out of the hi-hat.
@@ -50,7 +57,7 @@ I made a <a href="https://youtu.be/Ip2vcaMDBV4" target="_blank">youtube video</a
 |----------|----------|----------|----------|
 | Alesis Nitro Mesh| ✅ | ✅ | |
 | Alesis Nitro Max | ✅ | ✅ | |
-| Alesis Nitro Pro | ✅ | No | Uses the same pedal, contact me if you want to be a tester|
+| Alesis Nitro Pro | ✅ | ✅ | | Requires 3.5mm to 6.25mm jack adaptor
 | Alesis Turbo Mesh | ✅ | No | Uses the same pedal, contact me if you want to be a tester|
 | Alesis Surge Kit | Probably | No | Probably the same pedal, contact me if you want to be a tester|
 | Alesis Command Kit | Probably | No | Probably requires a very small modification contact me if you want to be a tester |
