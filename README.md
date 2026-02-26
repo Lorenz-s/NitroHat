@@ -1,4 +1,4 @@
-## NitroHat: The Hi-Hat Controller Your Alesis Drmkit Deserves
+## NitroHat: The Hi-Hat Controller Your Alesis Drumkit Deserves
 
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/NitroHat-MillenniumPro.jpg)
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20251213_112846.jpg)
@@ -11,7 +11,7 @@
 - Standard Hi-Hat Pedal Compatible
 - Natural Playability – No More Over-Pressing
 - Full Expression: Closed, Half-Open, Open, and Chick and Bark Sounds
-- Plug-and-Play for Alesis Nitro/Nitro Max
+- Plug-and-Play for Alesis Nitro/Nitro Max and Nitro Pro
 - Made in the EU
 
 ### The Story Behind Nitro Hat
