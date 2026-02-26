@@ -4,7 +4,7 @@
 
 ### 26-02-2026 - Nitro Hat works with the Alesis Nitro Pro model
 Thanks to Agnese for sending out a Nitro Pro pedal for test.
-I can confirm that inside the pedals are identicals, only the exterior is different so **the Nitro Hat works with the Alesis Nitro Pro**.
+I can confirm that inside the pedals are identical, only the exterior is different so **the Nitro Hat works with the Alesis Nitro Pro**.
 ![AlesisDMhatPro](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro.jpg)
 ![AlesisDMhatPro2](https://github.com/Lorenz-s/NitroHat/raw/main/images/DMhat-NitroPro2.jpg)
 
