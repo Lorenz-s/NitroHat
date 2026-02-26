@@ -57,7 +57,7 @@ I made a <a href="https://youtu.be/Ip2vcaMDBV4" target="_blank">youtube video</a
 |----------|----------|----------|----------|
 | Alesis Nitro Mesh| ✅ | ✅ | |
 | Alesis Nitro Max | ✅ | ✅ | |
-| Alesis Nitro Pro | ✅ | ✅ | | Requires 3.5mm to 6.25mm jack adaptor
+| Alesis Nitro Pro | ✅ | ✅ |  Requires 3.5mm to 6.25mm jack adaptor |
 | Alesis Turbo Mesh | ✅ | No | Uses the same pedal, contact me if you want to be a tester|
 | Alesis Surge Kit | Probably | No | Probably the same pedal, contact me if you want to be a tester|
 | Alesis Command Kit | Probably | No | Probably requires a very small modification contact me if you want to be a tester |
