@@ -25,7 +25,7 @@ Yes! The Nitro Hat is designed to fit standard hi-hat pedals, so you can use it 
 The only thing you need to make sure is that the Hi-hat clutch bolt is M10 or M12. See picture for reference.
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/clutch-bolt.jpg)
 
-Over time I will build a list badsed on feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
+Over time I will build a list based on tests and feedback from users, you can find it [here](https://lorenz-s.github.io/NitroHat/TheNitroHat)
 
 If your hi-hat clutch bolt is not M10 or M12, please get in touch with me!
 
