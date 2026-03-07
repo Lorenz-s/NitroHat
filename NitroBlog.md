@@ -2,6 +2,24 @@
 ### Updates on the Nitro Hat project
 
 
+no_cable1.jpg
+
+### 07-02-2026 - Almost there!
+2 Days remaining for the Nitro Hat preorder campaign! 19 People signed up, almost double my set minimum, Nice!
+
+I have been working hard behind the scenes in improving the design and make it final before ordering all the components.
+
+Last week I hire a mechanical engineer for consultancy on the product and see what can be improved, he provided me with very good feedback and one by one I implementing it.
+
+The mechanical design will slightly change to make it better, the Nitro Hat will have anchoring bolts to the hi-hat pedal so it will be stable also when playing at higher speeds.
+
+Another great improvement: the cable is gone! Now the hat is in two completely separate parts, one less part that migh break over time due to movement!
+
+![NoCable](https://github.com/Lorenz-s/NitroHat/raw/main/images/no_cable1.jpg)
+![NoCable2](https://github.com/Lorenz-s/NitroHat/raw/main/images/no_cable2.jpg)
+
+---
+
 ### 26-02-2026 - Nitro Hat works with the Alesis Nitro Pro model
 Thanks to Agnese for sending out a Nitro Pro pedal for test.
 I can confirm that inside the pedals are identical, only the exterior is different so **the Nitro Hat works with the Alesis Nitro Pro**.
