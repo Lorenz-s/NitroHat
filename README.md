@@ -37,8 +37,7 @@ That’s why I launched this pre-order campaign. I want to see if there are at l
 ---
 **Ready to upgrade?**
 
-[Pre-Order Now](https://lectronz.com/campaigns/pre-order-nitro-hat-first-batch) and be one of the first to experience the difference.
-
+The preorder has ended, you can't order the Nitro Hat right now. [Join the Waitlist](https://lectronz.com/products/nitro-hat)
 
 **Questions?**
 [Contact me!](https://lorenz-s.github.io/NitroHat/Contact)
