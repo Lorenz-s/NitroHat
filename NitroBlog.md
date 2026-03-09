@@ -55,13 +55,6 @@ While the preorder campaign is progressing well, I'm looking at a new hi-hat sta
 I discovered a lot, and I updated the [Nitro Hat page](https://lorenz-s.github.io/NitroHat/TheNitroHat) with useful info.
 Do you own a hi-hat stand already? Are you willing to help by providing the dimensions? Contact me!
 
----
-
-### 03-02-2026 - New Element/Matrix.org Space for the Nitro Hat
-A lot of questions are coming via email and via reddit chat, I dediced it's time to have a proper community around the project.
-Discord is great for this, but Element is better since it's opensource, secure and encrypted.
-You can make and account and easily join the Nitro Hat Element Space by clicking [here](https://matrix.to/#/#nitrohat:matrix.org)
-
 
 ---
 
