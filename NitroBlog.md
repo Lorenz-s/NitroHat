@@ -1,10 +1,15 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+### 09-03-2026 - Nitro Hat preorder campaign ended!
+We have a successfull preorder campaign with 19 orders. Thank you for everyone joining!
+In the next few days Lectronz will create the orders, and I will start ordering and production of the new Nitro Hat.
 
-no_cable1.jpg
+Keep an eye here for updates!
 
-### 07-02-2026 - Almost there!
+---
+
+### 07-03-2026 - Almost there!
 2 Days remaining for the Nitro Hat preorder campaign! 19 People signed up, almost double my set minimum, Nice!
 
 I have been working hard behind the scenes in improving the design and make it final before ordering all the components.
