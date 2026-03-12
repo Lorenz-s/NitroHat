@@ -80,12 +80,12 @@ The goal of the preorder campain is to collect enough money to purchase differen
 |----------                        |----------   |---------|----------   |----------|----------            |----   |----------        |
 | Millennium DHS-1018 Stage Hi-Hat | ✅          |✅       |M12          |7mm       |11.1mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
 | Millennium HH-901 Pro Series     | ✅          |✅       |M12          |7mm       |11.1mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium HH-901 Pro Series.jpg"/> |Recommended - high quality for a good price   |
-| Pulse hi--hat                    | ✅          |✅       |M10          |5mm       |10mm                  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/> ||
+| Pulse hi--hat                    | ✅          |✅       |M10x1.5mm    |5mm       |10mm                  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/> ||
 | Pearl H-830                      | ✅          |❌       |M12          |5.5mm     |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pearl H-830.jpg"/> ||
 | Gibraltar GI-9707ML-DP           | ✅          |❌       |M12          |7mm       |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI-9707ML-DP.jpg"/> ||
 | Ludvig hi-hat                    | ✅          |✅       |M12          |?         |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Ludvig hi-hat.jpg"/> |A tester has this pedal, unfortunately no model |
 | Yamaha Crosstown HHS3            | ✅          |✅       |M10          |?         |?                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/yamaha crosstown HHS3.jpeg"/> |A tester has this pedal |
-| PDP PDHH 713 - 700 Series 3-leg  | ✅          |✅       |M12          |6.6mm     |10.4 - 10.8mm         | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/> | |
+| PDP PDHH 713 - 700 Series 3-leg  | ✅          |✅       |M12x1.25mm   |6.6mm     |10.4 - 10.8mm         | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/> | |
 | Tama Iron Cobra HH205 -200 Series| ✅*         |✅       |M12*         |6mm       |10.4 - 11.4           | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Tama Iron Cobra HH205.jpg"/> | *The clutch bolt is strange, the plastic part needs to be removed to make it work, the cymbal might be a bit more wobbly than others stands. Not recommended|
 | Gibraltar GI853010 - SC-4421D    | ✅          |✅       |M12          |-     |-                         | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI853010 - SC-4421D.jpg"/> |Clutch  Only|
 
