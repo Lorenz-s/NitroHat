@@ -1,6 +1,24 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+### 16-03-2026 - Prototyping time!
+
+Do you know what it takes to deliver the Nitro Hat?
+- Time
+- Plastic
+- The willingness to make it better and better!
+
+Today I was cleaning up my workroom and snapped this picture:
+![Protos](https://github.com/Lorenz-s/NitroHat/raw/main/images/protos.jpg)
+
+so many prototyping hours making sure the Nitro Hat is just right! And I'm not done yet — I'm finishing the final design, made to work even better than what the prototype showed in the pre-order campaign. More info soon!
+
+Call for help! Do you already have a hi-hat stand? Do you know how to measure with a caliper?
+
+I need you! I'm collecting data on clutch bolts to make sure the Nitro Hat will be compatible with as many stands as possible. Contact me!
+
+---
+
 ### 09-03-2026 - Nitro Hat preorder campaign ended!
 We have a successfull preorder campaign with 19 orders. Thank you for everyone joining!
 In the next few days Lectronz will create the orders, and I will start ordering and production of the new Nitro Hat.
