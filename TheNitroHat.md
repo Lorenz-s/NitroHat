@@ -1,4 +1,4 @@
-## **What is it?**
+Ik heb wat rPET en rPLA bij Formfutura besteld, maar ik heb nog nooit iets anders gebruikt dan Bambu-filament. Is er iets wat ik moet weten voordat ik een puinhoop maak?## **What is it?**
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
 
 The Nitro Hat is a **hi-hat controller** specifically designed for the Alesis Nitro, Nitro Max and Nitro Pro electronic drumkits.
@@ -88,8 +88,9 @@ The goal of the preorder campain is to collect enough money to purchase differen
 | PDP PDHH 713 - 700 Series 3-leg  | ✅          |✅       |M12x1.25mm   |6.6mm     |10.4 - 10.8mm         | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/> | |
 | Tama Iron Cobra HH205 -200 Series| Maybe*      |✅       |M12*         |6mm       |10.4 - 11.4           | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Tama Iron Cobra HH205.jpg"/> | *The clutch bolt is strange, the plastic part needs to be removed to make it work, the cymbal might be a bit more wobbly than others stands. Not recommended|
 | Gibraltar GI853010 - SC-4421D    | ✅          |✅       |M12          |-         |-                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI853010 - SC-4421D.jpg"/> |Clutch  Only|
-| Mapex Tornado H200               | ✅          |❌       |M12x?        |5.5mm     |-                     ||
-
+| Mapex Tornado H200               | ✅          |❌       |M12x?        |5.5mm     |-                     | |
+| Pearl Target Series              | ❌          |❌       |M10x1.25mm   |?         |11.7mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/pearl target series.jpeg"/> | Currently not supporting M10x1.25 |
+| Pearl Advanced Hardware System   | Maybe*      |❌       |M12x1.25mm   |?         |11.4mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/old pearl.jpeg.jpeg"/> | *The clutch bolt is strange, the cymbal might be a bit more wobbly than others stands. Not recommended|
 
 
 
