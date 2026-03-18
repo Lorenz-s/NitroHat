@@ -90,7 +90,7 @@ The goal of the preorder campain is to collect enough money to purchase differen
 | Gibraltar GI853010 - SC-4421D    | ✅          |✅       |M12          |-         |-                     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI853010 - SC-4421D.jpg"/> |Clutch  Only|
 | Mapex Tornado H200               | ✅          |❌       |M12x?        |5.5mm     |-                     | |
 | Pearl Target Series              | ❌          |❌       |M10x1.25mm   |?         |11.7mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/pearl target series.jpeg"/> | Currently not supporting M10x1.25 |
-| Pearl Advanced Hardware System   | Maybe*      |❌       |M12x1.25mm   |?         |11.4mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/old pearl.jpeg.jpeg"/> | *The clutch bolt is strange, the cymbal might be a bit more wobbly than others stands. Not recommended|
+| Pearl Advanced Hardware System   | Maybe*      |❌       |M12x1.25mm   |?         |11.4mm                | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/old pearl.jpeg"/> | *The clutch bolt is strange, the cymbal might be a bit more wobbly than others stands. Not recommended|
 
 
 
