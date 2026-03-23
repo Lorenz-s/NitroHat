@@ -22,7 +22,7 @@ Hi, I’m Lorenzo—a drummer, electronics engineer, and the creator of the Nitr
 
 **No Solutions, So I Built One**
 
-I looked for alternatives, but unfortunately, the Nitro model doesn’t support other hi-hat controllers. That’s when I decided to take matters into my own hands. As an electronics engineer, I saw an opportunity to create something better.
+I looked for alternatives, but unfortunately, the Nitro module doesn’t support other hi-hat controllers. That’s when I decided to take matters into my own hands. As an electronics engineer, I saw an opportunity to create something better.
 
 After many iterations, testing, and tweaking, I finally got it right. The **Nitro Hat** is now mounted on a standard hi-hat pedal, delivering a **realistic, responsive feel**—just like an acoustic hi-hat should.
 
