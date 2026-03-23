@@ -10,7 +10,7 @@
 #### Key Features:
 - Standard Hi-Hat Pedal Compatible
 - Natural Playability – No More Over-Pressing
-- Full Expression: Closed, Half-Open, Open, and Chick and Bark Sounds
+- Full Expression: Closed, Half-Open, Open, and Chick Sounds
 - Plug-and-Play for Alesis Nitro/Nitro Max and Nitro Pro
 - Made in the EU
 
