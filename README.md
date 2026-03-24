@@ -1,11 +1,11 @@
 ## NitroHat: The Hi-Hat Controller Your Alesis Drumkit Deserves
 
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/NitroHat-MillenniumPro.jpg)
-![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20251213_112846.jpg)
+![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Ht_mounted_alesis.jpg)
 
 ### Frustrated with the clunky, unresponsive stock hi-hat? Meet the Nitro Hat: realistic feel, full expression, and plug-and-play simplicity for your Alesis e-drum kit."
 
-![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
+![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Hat_Detail.jpg)
 
 #### Key Features:
 - Standard Hi-Hat Pedal Compatible
@@ -18,7 +18,7 @@
 
 **From Frustration to Innovation**
 
-Hi, I’m Lorenzo—a drummer, electronics engineer, and the creator of the Nitro Hat. About a year ago, I picked up an **Alesis Nitro Max** to start learning drums. But there was one major issue: **the stock hi-hat pedal**. It felt nothing like the real thing. I had to press way too hard just to get a closed sound, and the overall experience was far from the natural feel of the hi-hat pedal I used during my drum lessons.
+Hey, I’m Lorenzo—a drummer, electronics engineer, and the creator of the Nitro Hat. About a year ago, I picked up an **Alesis Nitro Max** to start learning drums. But there was one major issue: **the stock hi-hat pedal**. It felt nothing like the real thing. I had to press way too hard just to get a closed sound or it was almost impossible to properly have a half-open sound. The overall experience was far from the natural feel of the hi-hat pedal I used during my drum lessons.
 
 **No Solutions, So I Built One**
 
@@ -30,9 +30,9 @@ After many iterations, testing, and tweaking, I finally got it right. The **Nitr
 
 I shared my creation on Reddit, and the response was overwhelming. Three drummers volunteered to be beta testers, and I shipped them the first units. Since the feedback was incredibly positive, so I made a few final improvements and decided to take the next step: **a small-batch production**.
 
-**Join the First Batch**
+**Now even better**
 
-That’s why I launched this pre-order campaign. I want to see if there are at least **10 drummers** out there who, like me, are ready to upgrade their Alesis Nitro experience. If you’re tired of the stock hi-hat and want to play with real expression, **the Nitro Hat is for you**.
+The first pre-order campaign allowed me to iterate my idea and I now have a even better version, I am currently working towards delivering the first orders!
 
 ---
 **Ready to upgrade?**
