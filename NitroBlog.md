@@ -1,6 +1,12 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+### 24-03-2026 - Website update
+
+Both Lectronz listing and website have been updated with new pictures (little spoiler of the final version :) and a Hi-Hat compatibility page.
+PCB have been ordered and should be here next week, I should then have everything needed to start producing the pre-order batch!
+
+
 ### 16-03-2026 - Prototyping time!
 
 Do you know what it takes to deliver the Nitro Hat?
