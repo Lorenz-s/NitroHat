@@ -3,7 +3,7 @@
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/NitroHat-MillenniumPro.jpg)
 ![DrumKit-NitroHat](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Ht_mounted_alesis.jpg)
 
-### Frustrated with the clunky, unresponsive stock hi-hat? Meet the Nitro Hat: realistic feel, full expression, and plug-and-play simplicity for your Alesis e-drum kit."
+### Frustrated with the clunky, unresponsive stock hi-hat? Meet the Nitro Hat: realistic feel, full expression, and plug-and-play simplicity for your Alesis e-drum kit.
 
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Hat_Detail.jpg)
 
