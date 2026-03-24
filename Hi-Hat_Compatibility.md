@@ -33,6 +33,7 @@ Divide the number by 10, this is your thread pitch.
 ## **Hi-Hat Stands Compatibility Tables**
 
 ### Fully Tested Hi-Hat Stands
+
 |Model                             |Compatible?  |Tested?  |Clutch Bolt |Photo  |Notes             | 
 |----------                        |----------   |---------|----------  |----   |----------        |
 | Pulse hi--hat                    | ✅          |✅       |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  ||
@@ -46,6 +47,7 @@ Divide the number by 10, this is your thread pitch.
 
 
 ### Other Models
+
 |Model                             |Compatible?  |Tested?  |Clutch Bolt  |Photo  |Notes             | 
 |----------                        |----------   |---------|----------   |----   |----------        |
 | Millennium DHS-1018 Stage Hi-Hat | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
