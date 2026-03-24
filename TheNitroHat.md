@@ -1,4 +1,4 @@
-Ik heb wat rPET en rPLA bij Formfutura besteld, maar ik heb nog nooit iets anders gebruikt dan Bambu-filament. Is er iets wat ik moet weten voordat ik een puinhoop maak?## **What is it?**
+**What is it?**
 ![NitroHat-Hardware](https://github.com/Lorenz-s/NitroHat/raw/main/images/IMG_20260112_170646.jpg)
 
 The Nitro Hat is a **hi-hat controller** specifically designed for the Alesis Nitro, Nitro Max and Nitro Pro electronic drumkits.
