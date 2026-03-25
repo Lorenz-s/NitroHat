@@ -41,9 +41,11 @@ Divide the number by 10, this is your thread pitch.
 
 ### Fully Tested Hi-Hat Clutches
 
-|Model                             |Compatible?  |Tested?  |Clutch Bolt |Photo     |Notes | 
-|----------                        |----------   |---------|----------  |----------|----------|
-| Gibraltar GI853010 - SC-4421D    | ✅          |✅       |M12x???     | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI853010 - SC-4421D.jpg"/> ||
+|Model                                          |Compatible?  |Tested?  |Clutch Bolt |Photo     |Notes | 
+|----------                                     |----------   |---------|----------  |----------|----------|
+| Gibraltar Pro Hi-Hat Clutch - SC-4420         | ✅          |✅       |M12x1.25mm  | <img src="https://www.woodbrass.com/images/woodbrass/GIBRALTAR+TILTER+CLUTCH+PRO.JPG"/> ||
+| Gibraltar Standard Hi-Hat Clutch- SC-4421D    | ✅          |✅       |M12x1.25mm    | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI853010 - SC-4421D.jpg"/> ||
+| Sparedrum HHTT2                               | ✅          |✅       |M12x1.25mm  | <img src="https://www.woodbrass.com/images/woodbrass/SD+HHTT2.JPG"> ||
 
 
 ### Other Models
