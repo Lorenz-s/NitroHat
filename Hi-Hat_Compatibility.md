@@ -53,7 +53,6 @@ Divide the number by 10, this is your thread pitch.
 
 |Model                             |Compatible?  |Tested?  |Clutch Bolt  |Photo  |Notes             | 
 |----------                        |----------   |---------|----------   |----   |----------        |
-
 | Millennium HH-901 Pro Series     | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium HH-901 Pro Series.jpg"/> |Recommended - high quality for a good price   |
 | Pearl H-830                      | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pearl H-830.jpg"/> ||
 | Gibraltar GI-9707ML-DP           | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI-9707ML-DP.jpg"/> ||
