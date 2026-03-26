@@ -38,6 +38,7 @@ Divide the number by 10, this is your thread pitch.
 |----------                        |----------   |---------|----------  |----   |----------        |
 | Pulse hi--hat                    | ✅          |✅       |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  ||
 | PDP PDHH 713 - 700 Series 3-leg  | ✅          |✅       |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/>   ||
+| Millennium DHS-1018 Stage Hi-Hat | ✅          |✅       |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
 
 ### Fully Tested Hi-Hat Clutches
 
@@ -52,7 +53,7 @@ Divide the number by 10, this is your thread pitch.
 
 |Model                             |Compatible?  |Tested?  |Clutch Bolt  |Photo  |Notes             | 
 |----------                        |----------   |---------|----------   |----   |----------        |
-| Millennium DHS-1018 Stage Hi-Hat | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
+
 | Millennium HH-901 Pro Series     | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium HH-901 Pro Series.jpg"/> |Recommended - high quality for a good price   |
 | Pearl H-830                      | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pearl H-830.jpg"/> ||
 | Gibraltar GI-9707ML-DP           | Probably    |❌       |M12          | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar GI-9707ML-DP.jpg"/> ||
