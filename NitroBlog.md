@@ -1,11 +1,57 @@
 # Nitro Blog
 ### Updates on the Nitro Hat project
 
+
+
+### 30-03-2026 - Prototyping time!
+
+Printers are printing at the shop, soldering irons are hot on the bench... it's production time!The first pieces of the Nitro Hat are ready!
+
+The Final Design
+After a lot of iteration, the new design is here!
+
+![New Design](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Hat_Detail.jpg)
+
+I am so happy with the new design, it's a big improvement over the first one.
+Some key changes:
+-   No more cable between the two parts, one less component that can get damaged over time
+-   New locking interface to the stand: two extra hidden screws lock the bottom part in place, avoiding mistriggering due to movement
+-   Bigger springs: the close hi-hat required a lot of force with some stands, now with an even more realistic feeling
+-   Double velcro straps to avoid spinning.
+
+Here's a picture fully assembled on a Millennium hi-hat stand:
+![Mounted](https://github.com/Lorenz-s/NitroHat/raw/main/images/Nitro_Ht_mounted_alesis.jpg)
+
+**So what about clutch bolt compatibility?**
+
+I will have 4 versions available:
+-   M12x1.25mm - this seems to cover ~80% of the clutches I found around, most modern stands ship with this.
+-   M10x1.50 - seems to be common for smaller and older stands
+-   M12x1.75 and M10x1.25 will also be available for edge cases.
+
+Before shipping I will ask you which model you want, by default I will ship M12x1.25mm.
+How to check your hi-hat compatibility or which model to buy? -> Check the Hi-Hat Compatibility page
+For everyone who does not want to bother, I tested some good Gibraltar clutches that are less than 20 EUR online, same page!
+
+**Unboxing experience**
+
+I found out that the 3D printing shop I use for the Nitro Hat throws away a lot of boxes that are perfectly fine for shipping.
+So I decided to make the sustainable choice of not having custom boxes.
+The unboxing experience might feel a little less special, but think about the planet — the Nitro Hat is now made with 100% recycled plastic and reused packaging!
+
+**What's next?**
+
+I will be shipping the first units this week, starting with EU drummers — the faster delivery times will allow me to get feedback quickly in case any issues arise.
+In the meantime I will continue production of the remaining units and will start writing the assembly instructions, coming soon on the Nitro Hat website.
+
+---
+
 ### 24-03-2026 - Website update
 
 Both Lectronz listing and website have been updated with new pictures (little spoiler of the final version :) and a Hi-Hat compatibility page.
 PCB have been ordered and should be here next week, I should then have everything needed to start producing the pre-order batch!
 
+---
 
 ### 16-03-2026 - Prototyping time!
 
