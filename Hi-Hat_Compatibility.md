@@ -36,9 +36,11 @@ Divide the number by 10, this is your thread pitch.
 
 |Model                             |Compatible?  |Tested?  |Clutch Bolt |Photo  |Notes             | 
 |----------                        |----------   |---------|----------  |----   |----------        |
-| Pulse hi--hat                    | ✅          |✅       |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  ||
-| PDP PDHH 713 - 700 Series 3-leg  | ✅          |✅       |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/>   ||
-| Millennium DHS-1018 Stage Hi-Hat | ✅          |✅       |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
+| Pulse hi--hat                    | ✅          | ✅      |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  ||
+| PDP PDHH 713 - 700 Series 3-leg  | ✅          | ✅      |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/>   ||
+| Millennium DHS-1018 Stage Hi-Hat | ✅          | ✅      |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Millennium DHS-1018 Stage Hi-Hat.jpg"/> |Recommended - cheap but sturdy|
+| Pearl H-790                      | ✅          | ✅      |M12x1.25mm  | <img src="https://preview.redd.it/nitro-max-hi-hat-upgrade-by-lorenzo-v0-dnvv0vvlhqtg1.jpeg?width=1080&crop=smart&auto=webp&s=cf48657eedd7e0619d8e5931f8dc9f2d3867f7d0"/> |Thank you Thomas for testing!|
+
 
 ### Fully Tested Hi-Hat Clutches
 
