@@ -22,7 +22,7 @@ Before you start, lay out all the parts and make sure you have everything needed
 - Small black plastic clip
 
 Tools Needed:
-- Hex/Allen Key Size 3
+- Hex/Allen Key Size 3 (For American friends, size 7/64" should work)
 
 ---
 
