@@ -23,7 +23,7 @@ Recommendation: the force required to press the hi-hat pedal changes from type t
 | PDP PDHH 713 - 700 Series 3-leg  | ✅          | ✅      |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/PDP PDHH713.jpg"/>   ||
 | Pearl H-790                      | ✅          | ✅      |M12x1.25mm  | <img src="https://preview.redd.it/nitro-max-hi-hat-upgrade-by-lorenzo-v0-dnvv0vvlhqtg1.jpeg?width=1080&crop=smart&auto=webp&s=cf48657eedd7e0619d8e5931f8dc9f2d3867f7d0"/> | [Review on Reddit](https://www.reddit.com/r/edrums/comments/1seqo9y/nitro_max_hi_hat_upgrade_by_lorenzo/)|
 | Gibraltar 5707                   | ✅          | ✅      |M12x1.25mm  | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Gibraltar 5707.jpg/"> | [Review on Reddit](https://www.reddit.com/r/edrums/comments/1t6mbxt/lorenzo_nitro_hat_controller_review/)|
-| Pulse hi--hat                    | ✅          | ✅      |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  |Make sure to to add the M10x1.25 mounting when ordering!|
+| Pulse hi--hat                    | ✅*          | ✅      |M10x1.5mm   | <img src="https://github.com/Lorenz-s/NitroHat/raw/main/images/Pulse hi-hat.jpg"/>  |*Make sure to to add the M10x1.25 mounting when ordering!|
 
 
 ### Fully Tested Hi-Hat Clutches
