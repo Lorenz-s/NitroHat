@@ -37,7 +37,7 @@ The first pre-order campaign allowed me to iterate my idea and I now have a even
 ---
 **Ready to upgrade?**
 
-The preorder campaign has ended, you can't order the Nitro Hat right now. [Join the Waitlist](https://lectronz.com/products/LEDmcFcEoZWEisYLFJlSMpREONEWBiJPndl7gvGa/preview)
+[Order your Nitro Hat on Lectronz](https://lectronz.com/products/nitro-hat)
 
 **Questions?**
 [Contact me!](https://lorenz-s.github.io/NitroHat/Contact)
