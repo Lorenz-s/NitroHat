@@ -28,11 +28,7 @@ After many iterations, testing, and tweaking, I finally got it right. The **Nitr
 
 **From Reddit to Reality**
 
-I shared my creation on Reddit, and the response was overwhelming. Three drummers volunteered to be beta testers, and I shipped them the first units. Since the feedback was incredibly positive, so I made a few final improvements and decided to take the next step: **a small-batch production**.
-
-**Now even better**
-
-The first pre-order campaign allowed me to iterate my idea and I now have a even better version, I am currently working towards delivering the first orders!
+All-preorders are shipped, more than 30 people are enjoying it now.
 
 ---
 **Ready to upgrade?**
